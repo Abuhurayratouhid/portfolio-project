@@ -1,0 +1,29 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+span {
+    color: orangered;
+}
+
+section {
+    display: flex;
+}
+
+.half {
+    width: 50%;
+    padding: 2%;
+}
+
+.button {
+    text-decoration: none;
+    background-color: orangered;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 40px;
+    font-family: 'Poppins', sans-serif;
+}
