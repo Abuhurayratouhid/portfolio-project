@@ -19,11 +19,34 @@ section {
     padding: 2%;
 }
 
+.half-one img {
+    width: 600px;
+    height: 300px;
+}
+
+
+
 .button {
     text-decoration: none;
-    background-color: orangered;
+    background-image: linear-gradient(red);
     color: white;
     border-radius: 5px;
     padding: 10px 40px;
     font-family: 'Poppins', sans-serif;
+
+}
+
+.last-div {
+    width: 50%;
+    padding: 2%;
+    border: solid black;
+    border-radius: 30px;
+    margin: 30px;
+    border-left: 5px solid red;
+
+}
+
+footer {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.119);
 }
